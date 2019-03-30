@@ -1,4 +1,4 @@
-# Analysis
+# Analysis (28min)
 Layouting text means taking an existing text, the original/source, and arrange its words in a new way in lines.
 
 The building blocks of texts:
