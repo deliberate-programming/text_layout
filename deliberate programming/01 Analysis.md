@@ -72,7 +72,7 @@ abc    def
 ghij kl
 ```
 
-With block alignment the last line should not be filled up with spaces. That would not look nice.
+With block alignment the last line *should not* be filled up with spaces. That would not look nice.
 
 ## Increments
 1. Single paragraph, left alignment, no long words, no hyphenated words
