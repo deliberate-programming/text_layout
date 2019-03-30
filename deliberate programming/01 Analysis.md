@@ -85,3 +85,19 @@ With block alignment the last line should not be filled up with spaces. That wou
 
 ## Acceptance tests
 The requirements state a couple of test cases.
+
+There is none, though, for center alignment.
+
+And for the block alignment it's not clear how the additional spaces between words were distributed. Hence it would be hard to create exactly a destination text as given.
+
+### Function
+```
+string Layout(string source, int maxLineLength, Alignments alignment)
+
+enum Alignments {
+  Left,
+  Right,
+  Center,
+  Block
+}
+```
