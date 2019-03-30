@@ -73,3 +73,15 @@ ghij kl
 ```
 
 With block alignment the last line should not be filled up with spaces. That would not look nice.
+
+## Increments
+1. Single paragraph, left alignment, no long words, no hyphenated words
+2. Long words
+3. Hyphenated words
+4. Multiple paragraphs
+5. Right alignment
+6. Center alignment
+7. Block alignment
+
+## Acceptance tests
+The requirements state a couple of test cases.
